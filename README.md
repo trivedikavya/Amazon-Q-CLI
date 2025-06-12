@@ -16,6 +16,9 @@ This is a fully working **Sudoku game** built using **Amazon Q CLI** and **PyGam
 - 📋 Clean code structure, auto-generated using a single prompt
 
 
-## here is my blog post You will Found whole information regarding To it (https://trivedikavya.blogspot.com/2025/06/how-i-built-sudoku-game-using-amazon-q.html)
+> [!IMPORTANT]\
+> here is my blog post You will Found whole information regarding To it  [Blog-post](https://trivedikavya.blogspot.com/2025/06/how-i-built-sudoku-game-using-amazon-q.html)
+
+
 
 
